@@ -2,7 +2,7 @@ import bpy
 from random import randint
 
 bpy.ops.mesh.primitive_cube_add()
-path_to_export = "/Users/ryancosean/Desktop/Export"
+path_to_export = "/Users/ryancosean/Desktop/Shooter/Model"
 
 # how many cubes you want to add
 count = 10
